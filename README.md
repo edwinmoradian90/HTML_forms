@@ -2,7 +2,7 @@
 
 ## Project for [microverse](https://www.microverse.org).
 
-### [View Demo](https://raw.githack.com/edwinmoradian90/#add-repo-here/features/index.html) | [View Code](https://github.com/edwinmoradian90/#add-repo-here)
+### [View Demo](https://raw.githack.com/edwinmoradian90/HTML_forms/features/index.html) | [View Code](https://github.com/edwinmoradian90/HTML_forms)
 
 # Screenshot
 
