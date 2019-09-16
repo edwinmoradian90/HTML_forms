@@ -1,0 +1,185 @@
+a {
+    text-decoration: none;
+    color: #0077c5;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.d-block {
+    display: block;
+}
+
+.mx-auto {
+    margin: 0 auto;
+}
+
+.text-small {
+    font-size: 10px;
+}
+
+.view {
+    height: 100vh;
+    background-color: #eceef1;
+}
+
+.container {
+    margin: auto;
+    padding: 0 30px;
+    text-align: center;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.navbar>div {
+    font-size: 12px;
+    padding: 10px 20px;
+}
+
+.navbar>div>button {
+    background-color: #0077c5;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    float: right;
+    height: 34px;
+    padding: 0 20px;
+}
+
+.navbar>div>button:hover {
+    cursor: pointer;
+}
+
+.navbar>div>div {
+    float: right;
+    margin-right: 10px;
+}
+
+.navbar>div>div>div:nth-child(1) {
+    color: #505050;
+    margin-bottom: 10px;
+}
+
+.logo {
+    clear: both;
+    text-align: center;
+    width: 100%;
+}
+
+.logo>a>img {
+    height: 70px;
+    width: 140px;
+}
+
+.logo>ul {
+
+    padding-bottom: 15px;
+}
+
+.logo>ul>li {
+    display: inline;
+    padding: 0 5px;
+}
+
+.logo>ul>li>a {
+    font-size: 20px;
+}
+
+.logo>ul>li>a>img {
+    height: 23px;
+    width: 23px;
+}
+
+.card {
+    background: #ffffff;
+    border: .5px solid lightgray;
+    border-radius: 3px;
+    height: 680px;
+    width: 380px;
+}
+
+.card>div {
+    color: #4c4c4c;
+    margin: 30px 0 20px 0;
+}
+
+.card>div>span {
+    font-size: 26px;
+}
+
+.card>form {
+    color: #404040;
+}
+
+.card>form>div> {
+    margin-bottom: 30px;
+}
+
+.card>form>div>label {
+    padding-bottom: 6px;
+    text-align: left;
+}
+
+.card>form>div>input {
+    border: .5px solid #cacacaa4;
+    border-radius: 5px;
+    height: 34px;
+    width: 100%;
+}
+
+.card>form>div>span {
+    text-align: left;
+    padding-bottom: 40px;
+    padding-top: 6px;
+}
+
+.card>div>div {
+    font-size: 15px;
+    padding-top: 20px;
+}
+
+.card>form>input {
+    border: .5px solid #cacacaa4;
+    border-radius: 5px;
+    display: block;
+    height: 34px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+    width: 100%;
+}
+
+.card>form>label {
+    display: block;
+    padding-bottom: 6px;
+    text-align: left;
+}
+
+.card>form>button {
+    background-color: #0077c5;
+    border: 0;
+    border-radius: 5px;
+    color: white;
+    font-size: 16px;
+    height: 44px;
+    margin-bottom: 40px;
+    width: 100%;
+}
+
+.card>footer>span {
+    color: #757575;
+    font-size: 12px;
+    line-height: 30px;
+}
+
+.card>section {
+    background-color: #eceef1;
+    color: #8d9096;
+    height: 52px;
+    padding-top: 35px;
+    margin-top: 25px;
+    margin-left: 1px;
+    text-align: center;
+}
