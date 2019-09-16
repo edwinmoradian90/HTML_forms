@@ -6,14 +6,12 @@
 
 # Screenshot
 
-![Youtube page](./assets/images/screenshot.png)
+![Intuit Form Clone](./assets/images/screenshot.png)
 
 # Objectives
 
-*1
-*2
-*3
-*4
+- Clone the form on the Intuit sign up page.
+- Include form semantic HTML and proper styles.
 
 # Built With
 
