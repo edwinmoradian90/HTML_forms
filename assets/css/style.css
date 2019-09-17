@@ -144,7 +144,7 @@ a:hover {
   border: 0.5px solid #cacacaa4;
   border-radius: 5px;
   display: block;
-  height: 34px;
+  height: 44px;
   margin: 0 auto;
   margin-bottom: 24px;
   width: 100%;
@@ -156,14 +156,15 @@ a:hover {
   text-align: left;
 }
 
-.card > form > button {
+.button {
   background-color: #0077c5;
   border: 0;
   border-radius: 5px;
   color: white;
   font-size: 16px;
-  height: 44px;
+  height: 88px;
   margin-bottom: 40px;
+  padding: 10px 0;
   width: 100%;
 }
 
@@ -176,18 +177,19 @@ a:hover {
 .card > section {
   background-color: #eceef1;
   color: #8d9096;
-  height: 52px;
+  height: 48px;
   padding-top: 35px;
   margin-top: 25px;
-  margin-left: 1px;
+  margin-left: 0.5px;
   text-align: center;
+  width: 379.9px;
 }
 
 .footer {
   font-size: 12px;
   text-align: center;
   padding: 20px 0px;
-  height: 100px;
+  height: 70px;
   width: 100%;
 }
 
